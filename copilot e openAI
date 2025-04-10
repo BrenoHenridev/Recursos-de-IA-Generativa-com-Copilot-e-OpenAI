@@ -1,0 +1,23 @@
+Insights
+A IA conseguiu identificar bem os textos impressos mesmo em imagens com pouca iluminação.
+
+Textos manuscritos ou borrados apresentaram redução na precisão, sugerindo a necessidade de pré-processamento das imagens.
+
+A API retorna posições dos blocos de texto, o que permite aplicações visuais mais avançadas.
+
+Possibilidades de Uso
+Automatizar a leitura de notas fiscais e recibos
+
+Indexar imagens com texto para pesquisa
+
+Criar sistemas de digitalização de documentos
+
+Aprendizados
+O Azure Computer Vision OCR é simples de usar e tem alta precisão.
+
+Funciona bem com textos impressos em diversos idiomas.
+
+Pode ser integrado com outros serviços do Azure como Storage, Form Recognizer e Power Automate.
+
+Referência
+Documentação Oficial do Azure OCR
